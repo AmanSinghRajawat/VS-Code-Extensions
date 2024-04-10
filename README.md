@@ -54,13 +54,4 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Valiant
 <br />
 <br />
 
-
-4. Snazzy Operation [Theme] + Operator Mono [Font] By Aaron Thomas for Code Editor to make fancy font style.
-
-Name: Snazzy Operator
-
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=aaronthomas.vscode-snazzy-operator
-
-Name : Operator Mono Theme
-
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Valiantsin.operatormonodarktheme
+## Good Day!
