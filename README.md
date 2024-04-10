@@ -9,7 +9,6 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formula
 2. Live Server By Ritwick Dey for Auto Refresh
 
 Name: Live Server
-
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 
